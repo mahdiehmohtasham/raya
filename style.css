@@ -1,0 +1,53 @@
+p {
+    color: rgb(164, 89, 234);
+}
+h1 {
+    color: coral;
+}
+.paragharf {
+    color: rgb(9, 85, 51);
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: brown;
+}
+.paragharf2 {
+    width: 1200px;
+    height: 30px;
+}
+img{
+    width: 50%;
+    width: 50%;
+}
+.paragharf1{
+    width: 12.5rem;
+    height: 14.5rem;
+}
+.first .blue{
+    color: aqua;
+}
+img{
+    max-width: 1200px;
+    min-height: 1200px;
+}
+h1 {
+    font-size: 100px;
+}
+/* برای کادر دورش */
+h2{
+    font-size: 5rem;
+    border: 10px solid rgb(10, 10, 48);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: rgb(50, 5, 35);
+    margin: 100px 60px;
+    padding: 100px;
+}
+body {
+    background-color: blue;
+}
